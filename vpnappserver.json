@@ -2,7 +2,7 @@
   "status": 1,
   "message": "Success",
   "servers": [
-    {
+  {
         "id": "3qGBhcpWwYcESBT62Mez",
         "recommend": true,
         "premium": true,
@@ -257,9 +257,7 @@
         "v2ray": "dmxlc3M6Ly80MGQ5ZmFlYy0zMTMwLTRlNjktYmI3Ny0yMTAxOTNlNjU1OThANTEuMjIyLjg3LjI5OjgwODE/dHlwZT10Y3Amc2VjdXJpdHk9cmVhbGl0eSZwYms9QzRscmFlTzBGQVl5Rm1EV2JSbUhtWDUzeFRmNFhNYWx2NWtHZWZlV0JtQSZmcD1jaHJvbWUmc25pPXlhaG9vLmNvbSZzaWQ9NDY2MmFkJnNweD0lMkYmZmxvdz14dGxzLXJwcngtdmlzaW9uI3ZwbnNwYWNlLXByZW12cG5zcGFjZQo=",
         "state": "Quebec",
         "long": "-73.8725"
-    }
-,
-   {
+    }, {
         "id": "1p8KDu390fRi8sq1uEvL",
         "recommend": false,
         "premium": false,
@@ -486,3 +484,4 @@
 ]
    
 }
+
